@@ -46,7 +46,7 @@ transition: slide-up
  	- zápočtový test (alespoň 60 %)
 - **Povinná četba**
   - úryvky z Bible ke každé hodině (na Moodlu)
- 	- Berlin, Adele, Marc Zvi Brettler, eds. _The Jewish Study Bible: Second Edition_. (Oxford: Oxford University Press, 2014), s. 1978–2021, 2035–2048, 2107–2207.  
+  - Berlin, Adele, Marc Zvi Brettler, eds. _The Jewish Study Bible: Second Edition_. (Oxford: Oxford University Press, 2014), s. 1978–2021, 2035–2048, 2107–2207.  
   - Coogan, Michael David, _The Old Testament: A Very Short Introduction_ (Oxford; New York: Oxford University Press, 2008)
   - Finkelstein, Israel, Neil Asher Silberman, _Objevování Bible: svatá Písma Izraele ve světle moderní archeologie_ (Jihlava: Ekon, 2007, 2010)
 - **Konzultace**: podle domluvy e-mailem (<milan.zonca@ff.cuni.cz>)
