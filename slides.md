@@ -1,6 +1,6 @@
 ---
 theme: seriph
-title: Hebrejská bible 1
+title: "Titulní strana"
 layout: cover
 background: "/Background.png"
 transition: slide-up
@@ -34,6 +34,15 @@ transition: slide-up
 ### AHZ100003
 
 ---
+level: 2
+---
+
+<Toc minDepth="1" maxDepth="1" />
+
+---
+title: "Úvod: Co je to Bible? Biblický kánon"
+level: 1
+---
 
 # Přivítání, technické informace
 
@@ -54,6 +63,8 @@ transition: slide-up
 </v-clicks>
 
 ---
+level: 2
+---
 
 <div class="text-center mb-8">
 
@@ -64,6 +75,8 @@ transition: slide-up
 </div>
 
 ---
+level: 2
+---
 
 <div class="text-center mb-8">
 
@@ -73,6 +86,8 @@ transition: slide-up
 
 </div>
 
+---
+level: 2
 ---
 
 <div class="text-center mb-8">
@@ -100,6 +115,7 @@ transition: slide-up
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Co biblické knihy spojuje? <br><br><br>
@@ -129,6 +145,8 @@ layout: two-cols
 </div>
 
 ---
+level: 2
+---
 
 <v-clicks>
 
@@ -156,6 +174,7 @@ layout: two-cols
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Která Bible je ta správná?
@@ -181,6 +200,7 @@ layout: two-cols
 </div>
 ---
 layout: two-cols
+level: 2
 ---
 
 # Tradiční židovský kánon
@@ -214,11 +234,14 @@ layout: two-cols
 
 ::right::
 
-<img src="/damascus.png" class="h-96" mx-auto/>
-
+<img src="/AleppoCodex2.png" class="h-110" mx-auto/>
+<div class="text-sm mt-2 text-center italic text-gray-500">
+Aleppský kodex
+</div>
 
 ---
 layout: two-cols
+level: 2
 ---
 
 <img src="/LXX.png" class="h-96" mx-auto/>
@@ -230,7 +253,7 @@ layout: two-cols
 <v-clicks>
 
 - založený na řeckém překladu Bible: **Septuaginta** (LXX)
-- 1. pol. 3. stol. př. Kr.
+- 1. pol. 3. stol. př. Kr. – 1. stol. po Kr.
 - **deuterokanonické**/**apokryfní** texty (Tobiáš, Judita, Moudrost, Sírachovec, Baruch, 1 a 2 Makabejská)
 - **přídavky** k Dn a Est
 - **chronologická** struktura
@@ -243,6 +266,7 @@ layout: two-cols
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Textové verze Bible
@@ -254,7 +278,7 @@ layout: two-cols
   - _Damašský kodex_ (10. stol.)
   - _Leningradský kodex_ (1008/09)
 - **Svitky od Mrtvého moře**
-  - obj. 1947
+  - obj. 1947 v Kumránu
   - od 3. stol. před Kr. do 1. stol. po Kr.
   - téměř 1000 rukopisů a fragmentů
   - všechny biblické knihy kromě Est
@@ -265,4 +289,7 @@ layout: two-cols
 
 ::right::
 
-<img src="/qumran.png" class="h-96" mx-auto/>
+<img src="/11Q5.png" class="h-96" mx-auto/>
+<div class="text-sm mt-2 text-center italic text-gray-500">
+Fragment svitku Žalmů z Kumránu
+</div>
