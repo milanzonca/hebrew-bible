@@ -1,5 +1,5 @@
 ---
-title: "Úvod: Co je to Bible? Biblický kánon"
+title: "Úvod: Co je to Bible? Biblický kánon (1. 10.)"
 level: 1
 ---
 
