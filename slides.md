@@ -27,6 +27,7 @@ transition: slide-up
 }
 h1, h2, h3, h4 {
   margin-bottom: 1rem;
+  margin-top: 1rem;
 }
 p {
   line-height: 1.75;
