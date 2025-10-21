@@ -222,3 +222,4 @@ level: 2
 |1.|Světlo; oddělení světla od tmy|4.|Slunce, měsíc, hvězdy|
 |2.|Opona; oddělení vod a nebes|5.|Vodní a létající zvířata (ryby a ptáci)|
 |3.|Suchá země; oddělení vod a souše|6.|Zemská zvířata, lidé|
+ 
