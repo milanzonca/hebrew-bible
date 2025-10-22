@@ -213,6 +213,8 @@ level: 2
 </div>
 
 ---
+level: 2
+---
 
 # Stvoření podle Gn 1
 
