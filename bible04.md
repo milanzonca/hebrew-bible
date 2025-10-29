@@ -244,7 +244,6 @@ level: 2
 
 ---
 level: 2
-layout: two-cols
 ---
 
 ### Oltáře a svatyně
@@ -256,12 +255,6 @@ layout: two-cols
   - **Penúel** - Jákobův zápas (Gn 32)
   
 **→ Lidová, rodinná forma náboženství před Dt reformou**
-
-Paralely s kanaanským náboženstvím (**Ugarit**/Rás Šamra). 
-
-::right::
-
-<img src="https://upload.wikimedia.org/wikipedia/commons/d/d1/P1180250_Louvre_Langue_ougaritique_Tablette_poeme_mythologique_AO16641_et_16642_rwk.jpg" class="h-96" mx-auto/>
 
 ---
 level: 2
