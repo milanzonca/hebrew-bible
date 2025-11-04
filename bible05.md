@@ -155,7 +155,7 @@ layout: two-cols
 > 200\. Jestliže plnoprávný občan vyrazil zub plnoprávného občana, sobě rovného, vyrazí mu zub. (Chammurapi)
 
 ---
-level: 2
+level: 1
 layout: two-cols
 ---
 
@@ -332,6 +332,8 @@ level: 2
 </div>
 
 ---
+level: 2
+---
 
 Vysvětlení: 
 - Mary Douglas: ochrana řádu
@@ -352,7 +354,7 @@ Vysvětlení:
 - účel Zákona = _imitatio Dei_
 
 ---
-level: 2
+level: 1
 layout: two-cols
 ---
 
