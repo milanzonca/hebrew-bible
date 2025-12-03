@@ -70,3 +70,7 @@ src: bible05.md
 ---
 src: bible06.md
 ---
+
+---
+src: bible07.md
+---

@@ -109,9 +109,9 @@ level: 1
 layout: two-cols
 ---
 
-<div class="relative h-full flex items-center justify-center">
-<img src=/TribesMap.png class="h-125" mx-auto/>
-</div>
+<figure class="flex flex-col items-center justify-center h-full">
+  <img src="/TribesMap.png" class="h-125" alt="Map of Israelite tribes" />
+</figure>
 
 ::right:: 
 
@@ -152,20 +152,51 @@ V knize vystupuje **šest** větších postav soudců:
 
 ::right::
 
-<div class="relative h-full flex items-center justify-center">
-<img src=/Rubens.jpg class="h-96" mx-auto/>
-</div>
+<figure class="flex flex-col items-center justify-center h-full">
+  <img src="/Rubens.jpg" class="h-96" alt="Samson" />
+  <figcaption class="text-sm mt-2 italic text-gray-500">
+    Samson, P. P. Rubens (1609-1610)
+  </figcaption>
+</figure>
 
 ---
 layout: two-cols
 ---
 
-<div class="relative h-full flex items-center justify-center">
-<img src=/Debora_Barak.jpg class="h-96" mx-auto/>
-</div>
+<figure class="flex flex-col items-center justify-center h-full">
+  <img src="/millais_jepthah.jpg" class="h-96" alt="Jiftach" />
+  <figcaption class="text-sm mt-2 italic text-gray-500">
+    Jiftach, J. E. Millais (1867)
+  </figcaption>
+</figure>
+
 
 ::right::
 
-<div class="relative h-full flex items-center justify-center">
-<img src=/millais_jepthah.jpg class="h-96" mx-auto/>
-</div>
+<figure class="flex flex-col items-center justify-center h-full">
+  <img src="/Debora_Barak.jpg" class="h-96" alt="Debora a Barak" />
+  <figcaption class="text-sm mt-2 italic text-gray-500">
+    Debora a Barák, Žaltář sv. Ludvíka (13. stol.)
+  </figcaption>
+</figure>
+
+---
+layout: two-cols
+level: 2
+---
+
+# Charakteristiky knihy Soudců
+
+- cyklická struktura vyprávění (nevěrnost→Boží hněv→trest→Boží lítost→soudce→vysvobození)
+- postupný úpadek → nutnost centralizace
+- ambivalentní postoj k instituci království
+- různorodé postavy - charismatické osobnosti (velitelé, osamělí obojovníci, tricksteři, ženy...)
+
+::right::
+
+<figure class="flex flex-col items-center justify-center h-full">
+  <img src="/Yael.jpg" class="h-96" alt="Debora a Barak" />
+  <figcaption class="text-sm mt-2 italic text-gray-500">
+    Jael a Sisera, Artemisia Gentileschi (1620)
+  </figcaption>
+</figure>
