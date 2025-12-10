@@ -74,3 +74,7 @@ src: bible06.md
 ---
 src: bible07.md
 ---
+
+---
+src: bible08.md
+---

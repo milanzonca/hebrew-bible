@@ -138,6 +138,8 @@ level: 2
 </figure>
 
 ---
+level: 2
+---
 
 ## Davidův nástup na trůn
 
@@ -147,6 +149,8 @@ level: 2
 - 2 Sam 7: **Nátanovo proroctví**
   - _Hospodin ti oznamuje, že on vybuduje dům tobě. Až se naplní tvé dny a ty ulehneš ke svým otcům, dám po tobě povstat tvému potomku, který vzejde z tvého lůna, a upevním jeho království. Ten vybuduje dům pro mé jméno a já upevním jeho královský trůn navěky. **Já mu budu Otcem a on mi bude synem**. Když se proviní, budu ho trestat metlou a ranami jako kteréhokoli člověka. Avšak svoje milosrdenství mu neodejmu, jako jsem je odňal Saulovi, kterého jsem před tebou odvrhl. **Tvůj dům a tvé království budou před tebou trvat navěky**, tvůj trůn bude navěky upevněn._
   
+---
+level: 2
 ---
 
 # Královská ideologie
@@ -181,29 +185,3 @@ layout: two-cols
 </figure>
 
 ---
-level: 2
-layout: two-cols
----
-
-# Knihy Královské
-
-- zásahy deuteronomistických redaktorů do Kr jsou výraznější než v Sam
-- vzor: _V x-tém roce vlády judského krále A. se stal králem nad celým Izraelem B., syn C. Kraloval y let. Dopouštěl se toho, co je zlé v Hospodinových očích._
-- externí zdroje: 
-    - 1Kr 11,41: _Kniha příběhů Šalomounových_ 
-	- 1Kr 14,29 aj.: _Kniha letopisů králů judských_
-	- 1Kr 14,19 aj.: _Kniha letopisů králů izraelských_
-
-# Šalomoun
-
-- zlatý věk, vybudování paláce, chrámu
-- archeologie spíše skeptická
-
-::right::
-
-<figure class="flex flex-col items-center justify-center h-full">
-  <img src="/Cranach_Solomon.jpg" class="h-115" alt="Šalomounův soud" />
-  <figcaption class="text-sm mt-2 italic text-gray-500">
-    Šalomounův soud, Lucas Cranach st. (1517–1557)
-  </figcaption>
-</figure>
