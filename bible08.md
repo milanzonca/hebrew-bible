@@ -105,28 +105,16 @@ layout: two-cols
 
 # Achab
 
-<v-clicks>
-
 - vzal si za ženu **Jezábel**, dceru sidonského krále Et-baala
 - postavil Baalovi chrám v Samaří
 - konfrontace s proroky: Elijáš, Michajáš
 
-</v-clicks>
-
-<v-click>
-
 # Proroctví 
-
-</v-click>
-
-<v-clicks>
 
 - 1Kr 17–22, 2Kr 1–9 - legendární příběhy o prorocích ze severu
 - pravděpodobně začleněné do DHD později
 - prorok (řec. _profétés_ - ohlašovatel; hebr. _navi_ - „povolaný“(?), „ohlašovatel“(?))
 - další termíny: „vidoucí“ (_roe_, _choze_)
-
-</v-clicks>
 
 ::right::
 
@@ -138,7 +126,7 @@ layout: two-cols
 </figure>
 
 ---
-level: 2
+level: 1
 layout: two-cols
 ---
 
@@ -209,8 +197,6 @@ level: 2
 layout: default
 ---
 
-<v-clicks>
-
 # Literární proroci
 
 1. **Proroci asyrské krize** (2. pol. 8. stol.) - Ámos, Ozeáš, Micheáš, Izajáš
@@ -231,4 +217,3 @@ layout: default
 - hymny, žalmy, lamentace, přísloví, 
 - *riv* - obžaloba, soudní spor: porušení smlouvy
 </div>
-</v-clicks>
