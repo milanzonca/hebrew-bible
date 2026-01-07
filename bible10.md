@@ -25,6 +25,8 @@ layout: default
 |~460–450?|Druhý chrám funguje, ale komunita v krizi|Malachiáš|
 
 ---
+level: 2
+---
 
 # Jeremjáš
 
@@ -45,6 +47,7 @@ layout: default
 
 ---
 layout: two-cols
+level: 2
 ---
 
 # Hlavní motivy
@@ -75,6 +78,7 @@ layout: two-cols
 </figure>
 ---
 layout: quote
+level: 2
 ---
 
 <v-clicks>
@@ -85,6 +89,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 
 </v-clicks>
 
+---
+level: 2
 ---
 
 # Ezechiel
@@ -104,6 +110,9 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 - **33–48**: vize útěchy a obnovy: proroctví po zničení Jeruzaléma; 40–48: vize obnoveného Jeruzaléma
 
 </v-clicks>
+
+---
+level: 2
 ---
 
 # Ezechiel: Úvodní vize (kap. 1–3)
@@ -127,6 +136,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 </figure>
 
 ---
+level: 2
+---
 
 # Nečistota v Chrámu a odchod Boží slávy (kap. 8–11)
 
@@ -145,6 +156,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 
 </v-clicks>
 
+---
+level: 2
 ---
 
 # Strážce a pastýři (kap. 33–34)
@@ -166,6 +179,9 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 > _Ustanovím nad nimi jednoho pastýře, který je bude pást – svého služebníka Davida. On bude jejich pastýřem a bude se o ně starat. Já Hospodin budu jejich Bohem a můj služebník David bude mezi nimi vůdcem._ (34,23–24)
 
 </v-clicks>
+
+---
+level: 2
 ---
 
 # Vize obnovy (kap. 36–37)
@@ -190,6 +206,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 
 </v-clicks>
 
+---
+level: 2
 ---
 
 # Deuteroizajáš (Iz 40–55)
@@ -220,6 +238,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 </v-clicks>
 
 ---
+level: 2
+---
 
 # Ageus (520 BC)
 
@@ -243,6 +263,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 </v-clicks>
 
 ---
+level: 2
+---
 
 # Zachariáš 1–8 (520–518 BC)
 
@@ -264,6 +286,8 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 
 </v-clicks>
 
+---
+level: 2
 ---
 
 # Malachiáš (pol. 5. stol. BC)
@@ -289,6 +313,9 @@ _Tak praví Hospodin: Říkáte, že z tohoto místa zbyla pustina bez lidí i d
 - _Hle, posílám k vám proroka Elijáše, dříve než přijde den Hospodinův veliký a hrozný._ (3,23)
 
 </div>
+
+---
+level: 2
 ---
 
 # Transformace proroctví
